@@ -11,7 +11,7 @@ const Header = ({ onSearch }) => {
   return (
     <div>
       <nav className="navbar">
-        <h2>User nfo</h2>
+        <h2>User Info</h2>
         <form className='search-form' action="/search">
           <input
             type="text"
